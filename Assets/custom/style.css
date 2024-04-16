@@ -1,0 +1,11 @@
+.btn-custom {
+    transition: transform .25s ease-in-out;
+}
+
+.btn-custom:hover {
+    transform: scale(1.3);
+}
+
+#sidebarToggle:hover {
+transition: .3s ease-in-out;
+}
