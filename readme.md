@@ -6,6 +6,7 @@ crud-peminjaman:
 - Bootstrap 4.6
 - MySQL/MariaDB
 - Template Bootstrap Admin 2
+- Port localhost:3307
 
 User Login:
 
